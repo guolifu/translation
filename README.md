@@ -2,6 +2,8 @@
 ## 基于有道词典API，php 命令行翻译工具
 
 ## demo:
+    git clone git@github.com:guolifu/translation.git
+    cd ./translation
     ./fy thunder
 
 ## result:
